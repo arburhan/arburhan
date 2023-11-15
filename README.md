@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @arburhan
 - 👀 I’m interested in MERN
-- 🌱 I’m currently learning: Redux.
+- 🌱 I’m currently learning: Redux,NextJs,Prisma
 - 💞️ I’m looking to collaborate real-life project
 - 📫 Reach me . arburhanar@gmail.com
 
