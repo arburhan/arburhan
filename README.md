@@ -13,22 +13,22 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/arburhan0" target="blank">
+<a href="https://twitter.com/arburhan0" target="_blank">
 <svg viewBox="0 0 24 24" alt="arburhan0" height="30" width="40" aria-hidden="true" class="r-4qtqp9 r-yyyyoo r-dnmrzs r-bnwqim r-lrvibr r-m6rgpd r-lrsllp r-1nao33i r-16y2uox r-8kz0gk"><g><path d="M18.244 2.25h3.308l-7.227 8.26 8.502 11.24H16.17l-5.214-6.817L4.99 21.75H1.68l7.73-8.835L1.254 2.25H8.08l4.713 6.231zm-1.161 17.52h1.833L7.084 4.126H5.117z"></path></g></svg>
 </a>
-<a href="https://linkedin.com/in/arburhan" target="blank">
+<a href="https://linkedin.com/in/arburhan" target="_blank">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arburhan" height="30" width="40" />
 </a>
-<a href="https://www.codechef.com/users/arburhan" target="blank">
+<a href="https://www.codechef.com/users/arburhan" target="_blank">
 <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="arburhan" height="30" width="40" />
 </a>
-<a href="https://www.hackerrank.com/arBurhan" target="blank">
+<a href="https://www.hackerrank.com/arBurhan" target="_blank">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="arburhan" height="30" width="40" />
 </a>
-<a href="https://codeforces.com/profile/arburhan" target="blank">
+<a href="https://codeforces.com/profile/arburhan" target="_blank">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="arburhan" height="30" width="40" />
 </a>
-<a href="https://www.hackerearth.com/@arburhan" target="blank">
+<a href="https://www.hackerearth.com/@arburhan" target="_blank">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@arburhan" height="30" width="40" />
 </a>
 </p>
@@ -57,6 +57,9 @@
 <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> 
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arburhan&show_icons=true&locale=en&layout=compact" alt="arburhan" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arburhan&show_icons=true&locale=en" alt="arburhan" /></p>
+<br/>
+<br/>
+<p>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arburhan&show_icons=true&locale=en&layout=compact" alt="arburhan" style="margin-right: 10px;" /> 
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=arburhan&show_icons=true&locale=en" alt="arburhan" />
+</p>
