@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arburhan&label=Profile%20views&color=0e75b6&style=flat" alt="arburhan" /> </p>
 
-- 🔭 I’m currently working on [Chakri Mela]([https://github.com/arburhan/library-management-system-web](https://github.com/arburhan/chakri-mela))
+- 🔭 I’m currently working on [Chakri Mela](https://github.com/arburhan/chakri-mela)
 
 - 🌱 I’m currently learning **Blockchain,Redux,NextJs,Prisma**
 
