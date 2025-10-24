@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arburhan&label=Profile%20views&color=0e75b6&style=flat" alt="arburhan" /> </p>
 
-- 🔭 I’m currently working on [Library Management System](https://github.com/arburhan/library-management-system-web)
+- 🔭 I’m currently working on [Chakri Mela]([https://github.com/arburhan/library-management-system-web](https://github.com/arburhan/chakri-mela))
 
 - 🌱 I’m currently learning **Blockchain,Redux,NextJs,Prisma**
 
 - 👯 I’m looking to collaborate on **MERN Project**
 
-- 📫 How to reach me **arburhanar@gmail.com**
+- 📫 How to reach me **burhan0x1@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
